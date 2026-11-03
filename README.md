@@ -1,3 +1,6 @@
+Esteban Acevedo y Cristopher Osto.
+
+
 # Taller-herencia-polimorfismo-abstractas-e-interfaces
 
 Parte B. Retos: errores y explicaciones
