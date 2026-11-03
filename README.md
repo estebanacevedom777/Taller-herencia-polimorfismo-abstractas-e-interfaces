@@ -36,9 +36,7 @@ public double costoEnvio(double km, boolean urgente) {
 
     if (urgente) {
         costo *= 1.5;
-    }
-
-    return costo;
+    }    return costo;
 }
 
 Resultados:
